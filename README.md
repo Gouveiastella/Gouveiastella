@@ -1,7 +1,7 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
  <h2> Bem vindo ao meu perfil <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-  <br />
+  <p>
   
   Meu nome é Stella, moro atualmente na cidade de São Bernardo do Campo localizada no grande ABC Paulista - SP/BR.<br>
   Sou estudante de ADS, apaixonada por tecnologia e curiosa sempre em busca de novas tendências.<br> Atualmente ocupo o cargo de consutora técnica em uma multinacional e estou em busca de um estágio na área de programação.  
