@@ -15,7 +15,7 @@
   
   
 ```javascript
-Study code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java]
+Study codes: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java]
   
 Goals: "Specialization in software engineering"
 ```
