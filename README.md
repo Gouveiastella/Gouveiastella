@@ -6,11 +6,11 @@
   Meu nome é Stella, moro atualmente na cidade de São Bernardo do Campo localizada no grande ABC Paulista - SP/BR.<br>
   Sou estudante de ADS, apaixonada por tecnologia e curiosa sempre em busca de novas tendências.<br> Atualmente ocupo o cargo de consutora técnica em uma multinacional e estou em busca de um estágio na área de programação.  
   
-  <h2>Áreas de Estudo</h2>
+  <h2>Ocupações</h2>
   
 <b>Estudante de Análise e Desenvolvimento de Sistemas na universidade <a href="https://www.pucminas.br/PucVirtual/Paginas/default.aspx"> PUC Pontifícia Universidade Católica</a></br>Consultora Técnica Especilizada na <a href="https://pt.wikipedia.org/wiki/TIM_Brasil">TIM CELULAR S.A</a>
 </em></p>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"><p> <h2>Ocupações</h2>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"><p> <h2>Áreas de Estudo</h2>
   
   
   
